@@ -15,7 +15,7 @@ function AppTitle() {
             marginBottom: '6px' 
         }}>
             <img 
-                src='/cube_icon.png' 
+                src={`${process.env.PUBLIC_URL}/cube_icon.png`} 
                 alt='app-icon' 
                 style={{ width: 32, height: 32 }} 
             />
