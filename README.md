@@ -7,7 +7,7 @@
 ![Cube-Net Simulator Screenshot](./public/image/Screenshot_May_3.png)
 
 ### Deployment
-GitHub Pages: []()
+GitHub Pages: [https://schenck-lab.github.io/cube-net-simulator/](https://schenck-lab.github.io/cube-net-simulator/)
 
 ### Credits
 
